@@ -23,7 +23,5 @@
   <img src="https://i.pinimg.com/originals/97/02/a9/9702a93a11c0c0df57564ec1fafe374d.gif" width="600" height="300"/>
 </div>
 
----
-
 ### 💜 About Me:
-
+I am a full-time comp-sci university student from London. 
