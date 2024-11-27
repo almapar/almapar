@@ -25,7 +25,6 @@
 
 ### 💜 About Me:
 A full-time comp-sci university student from London. 💻
-- My name is Alex(andra) 
 - I love sleeping :zzz:
 - K-pop stan 🎵
 - Mostly procrastinating, sometimes gaming 🎮
