@@ -24,4 +24,14 @@
 </div>
 
 ### 💜 About Me:
-I am a full-time comp-sci university student from London. 
+A full-time comp-sci university student from London. 💻
+- I love sleeping :zzz:
+- K-pop stan 🎵
+- Mostly procrastinating, sometimes gaming 🎮
+- Feel free to reach me via LinkedIn :P
+
+---
+
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almapar&theme=dark&background=000000)](https://git.io/streak-stats)
