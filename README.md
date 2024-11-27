@@ -30,6 +30,7 @@ A full-time comp-sci university student from London. 💻
 - K-pop stan 🎵
 - Mostly procrastinating, sometimes gaming 🎮
 - Feel free to reach me via LinkedIn
+- BTW he's amazing. https://github.com/ejaz4
 
 ---
 
