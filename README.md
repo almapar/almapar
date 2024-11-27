@@ -33,6 +33,7 @@ A full-time comp-sci university student from London. 💻
 ---
 
 ### 🤍 My Stats:
+<align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almapar&theme=dark&background=000000)](https://git.io/streak-stats) 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almapar)](https://github.com/anuraghazra/github-readme-stats)
