@@ -27,7 +27,7 @@
 A full-time comp-sci university student from London. 💻
 - I love sleeping :zzz:
 - K-pop stan 🎵
-- Mostly procrastinating
+- Roblox dev (WIP)
 - BTW he's amazing. <a href="https://github.com/ejaz4">Ejaz</a>
 
 
