@@ -24,10 +24,9 @@
 </div>
 
 ### 💜 About Me:
-A full-time comp-sci university student from London. 💻
+A full-time comp-sci university student from London 💻
 - I love sleeping :zzz:
-- K-pop stan 🎵
-- Roblox dev (WIP)
+- Aspiring Game Dev
 - BTW he's amazing. <a href="https://github.com/ejaz4">Ejaz</a>
 
 
